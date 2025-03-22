@@ -1,1 +1,1 @@
-export const BASE_URL = "http://192.168.100.55:8000/";
+export const BASE_URL = "https://notes-app-backend-g9if.onrender.com/";
