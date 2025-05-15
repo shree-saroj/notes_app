@@ -1,1 +1,1 @@
-export const BASE_URL = "https://notes-app-backend-g9if.onrender.com/";
+export const BASE_URL = "https://api.sarojbaral48.com.np/";
